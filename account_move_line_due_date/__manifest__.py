@@ -6,7 +6,7 @@
     "summary": "Shows Date Maturity on Journal Entries Lines",
     "version": "15.0.1.0.0",
     "category": "Accounting",
-    "website": "https://www.sygel.es",
+    "website": "https://github.com/sygel-technology/sy-account-financial-tools",
     "author": "Sygel",
     "license": "AGPL-3",
     "depends": [
