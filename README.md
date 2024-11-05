@@ -5,8 +5,8 @@ Account financial Tools for Odoo/OpenERP
 
 Available addons
 ----------------
-addon | version | summary
---- | --- | ---
-[Account Move Line Due Date](account_move_line_due_date/) | 14.0.1.0.0 | Show Date Maturity on Journal Entries Lines.
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[account_move_line_due_date](account_move_line_due_date/) | 14.0.1.0.0 |  | Shows Date Maturity on Journal Entries Lines
 
 [//]: # (end addons)
