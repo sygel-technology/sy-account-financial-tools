@@ -9,7 +9,7 @@
 
 # sy-account-financial-tools
 
-Account financial Tools for Odoo/OpenERP
+Account financial Tools for Odoo
 
 <!-- /!\ do not modify below this line -->
 
