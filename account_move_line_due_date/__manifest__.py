@@ -4,7 +4,7 @@
 {
     "name": "Account Move Line Due Date",
     "summary": "Shows Date Maturity on Journal Entries Lines",
-    "version": "16.0.1.0.0",
+    "version": "17.0.1.0.0",
     "category": "Accounting",
     "website": "https://github.com/sygel-technology/sy-account-financial-tools",
     "author": "Sygel",
