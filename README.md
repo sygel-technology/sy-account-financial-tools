@@ -16,6 +16,13 @@ Account financial Tools for Odoo
 <!-- prettier-ignore-start -->
 
 [//]: # (addons)
+
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[account_move_line_due_date](account_move_line_due_date/) | 18.0.1.0.0 |  | Shows Date Maturity on Journal Entries Lines
+
 [//]: # (end addons)
 
 <!-- prettier-ignore-end -->
